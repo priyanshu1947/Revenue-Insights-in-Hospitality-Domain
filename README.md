@@ -2,7 +2,9 @@
 
 # Revenue Insights in Hospitality Domain
 
-### Dashboard Snap: ![image](https://github.com/priyanshu1947/Revenue-Insights-in-Hospitality-Domain/assets/70458921/aeb40fbb-e920-4906-8059-b0b434cf2812)
+### Dashboard Snap: 
+
+![image](https://github.com/priyanshu1947/Revenue-Insights-in-Hospitality-Domain/assets/70458921/aeb40fbb-e920-4906-8059-b0b434cf2812)
 
 ## Problem Statement
 
