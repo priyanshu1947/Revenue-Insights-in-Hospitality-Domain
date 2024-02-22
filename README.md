@@ -179,16 +179,4 @@ a visual or table.
 
 ![image](https://github.com/priyanshu1947/Revenue-Insights-in-Hospitality-Domain/assets/70458921/553a8c5a-055c-4684-a3a5-31fabe2aa16d)
 
-3.1) 18.31 % customers have customer type 'First time'.
 
-3.2) 81.69 % customers have customer type 'returning'.
-       
-       thus, more customers have customer type 'returning'.
-
-### Type of travel
-
-4.1) 69.06 % customers have travel type 'Business'.
-
-4.2) 30.94 % customers have travel type 'Personal'.
-
-        thus, more customers have travel type 'Business'.
